@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vitalitk!
 - 👀 I’m interested in programming in Python and customizing Android phones!
 - 🌱 I’m currently learning on how to port a Custom ROM and making Treble overlays.
-- 💞️ I’m looking to collaborate on vendor_hardware_overlays since my M31 didn't have an overlay, so there were no features that were present in One UI.
+- 💞️ I’m looking to collaborate on a bunch of stuff.
 - 📫 How to reach me: Using my Telegram, of course: "@vitalitkk"
 
 <!---

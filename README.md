@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @vitalitk!
-- 👀 I’m interested in programming in Python and customizing Android phones!
-- 🌱 I’m currently learning on how to port a Custom ROM and making Treble overlays.
-- 💞️ I’m looking to collaborate on a bunch of stuff.
-- 📫 How to reach me: Using my Telegram, of course: "@vitalitkk"
-
-<!---
-vitalitk/vitalitk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Okay so basically,
+it all started when I got the Samsung Galaxy J7 and its warranty ended. I didn't know what rooting was at that time,
+and when my dad told me he'd root my phone and install Android 10 (since the max it can run is 9) and so it started.
+I then got the M31 (ok phone, but way too cut off) and I decided to root it myself, because why not? 
+*Yeah it failed*.
+I tried again, and **it was successful, nice.**
+Oh and I like Android develpoment now.
+For now only GSIs but I wanna try my hand at a Custom ROM.
+Yeah that's basically it.
+***Currenly maintaining m31nsxx (GSI)***

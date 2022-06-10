@@ -8,3 +8,4 @@ Oh and I like Android develpoment now.
 For now only GSIs but I wanna try my hand at a Custom ROM.
 Yeah that's basically it.
 ***Currenly maintaining m31nsxx (GSI)***
+EDIT: I tried my hand at a custom ROM. **I suck**.

@@ -10,10 +10,10 @@ Yeah that's basically it.
 ***Currenly maintaining m31nsxx (GSI)***
 EDIT: I tried my hand at a custom ROM. **I suck**.
 Anyway here's my stats that nobody asked for!
-<a href="https://github.com/00p513-dev">
+<a href="https://github.com/vitalitk">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitalitk&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/00p513-dev" />
 </a>
 <br>
-<a href="https://github.com/00p513-dev">
+<a href="https://github.com/vitalitk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalitk&langs_count=14&theme=nord&layout=compact" />
 </a>
